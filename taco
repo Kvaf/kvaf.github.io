@@ -1,3 +1,9 @@
+echo "# taco"
+git init
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Kvaf/taco.git
+git push -u origin main
 [
   {
     "id": "d09b669c-7e9a-47a0-a742-8662f46b0044",
